@@ -20,7 +20,7 @@ Requirements:
 ### Links
 
 - Solution URL: [Github](https://github.com/Naveed89-tech/Garden_webpage)
-- Live Site URL: [Gardener Web page](https://backgroundsliderappjavascript.netlify.app/)
+- Live Site URL: [Gardener Web page](https://gardener-webpage.netlify.app/)
 - Portfolio_Website: [Portfolio_Website](https://naveedtechs.netlify.app/)
 
 ## My process
